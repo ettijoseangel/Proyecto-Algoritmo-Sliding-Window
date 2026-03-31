@@ -17,7 +17,7 @@ Estás desarrollando una herramienta para ayudar a escritores a identificar la p
 * Divide el texto en palabras individuales utilizando el método .split(' ') en la cadena.
 * Desliza una ventana que recorra cada palabra del arreglo y compara su longitud con la palabra más larga encontrada hasta ese momento.
 * Devuelve la palabra más larga al final del proceso.
-* Puedes consultar un extracto de código para comenzar con la solución, se incluye un ejmplo de lo que se espera en la siguiente url: https://gist.github.com/heladio-devf-mx/4adef1db05f8cd3696780b666715c8c3
+* Puedes consultar un extracto de código para comenzar con la solución, se incluye un ejemplo de lo que se espera en la siguiente url: https://gist.github.com/heladio-devf-mx/4adef1db05f8cd3696780b666715c8c3
 
 ---
 
