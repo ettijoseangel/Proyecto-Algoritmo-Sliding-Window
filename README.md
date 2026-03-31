@@ -8,7 +8,7 @@ Usar la técnica Sliding Window para identificar la palabra más larga en una ca
 
 ---
 
-## Problema: Encuentra los Invitados que Pueden Sentarse Juntos
+## Problema: Encontrar la Palabra Más Larga
 Estás desarrollando una herramienta para ayudar a escritores a identificar la palabra más larga en un texto. El usuario ingresa un párrafo, y tu tarea es encontrar esa palabra utilizando la técnica Sliding Window. Este problema simplifica la lógica para que los alumnos practiquen cómo manejar cadenas de texto con ventanas deslizantes.
 
 ---
